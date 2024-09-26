@@ -6,7 +6,7 @@
 
 I'm a 3rd year student pursuing a Bachelor's in Artificial Intelligence and Data Science. I'm passionate about AI, data science, and continuously learning new things.
 
-- 🌱 I’m currently on my LeetCode 50-day challenge journey. Catch me up on [LinkedIn](https://www.linkedin.com/in/vaniairenea)!
+- 🌱 Focused on applying my problem solving skills in AI and Data Science. Catch me up on [LinkedIn](https://www.linkedin.com/in/vaniairenea)!
 - 💻 I know Java, Python, C, C++, and SQL.
 - 📊 I work with libraries like Pandas, Scikit-Learn, NumPy, and Matplotlib.
 
